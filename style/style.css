@@ -1,0 +1,59 @@
+.bag {
+    background-image: url(../assets/neocity.jpeg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.back {
+    background-image: url(../assets/wp7076333.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.ground {
+    background-image: url(../assets/flyingCars.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.hero-service
+{
+    font-size: 1rem;
+    background-color: white;
+    border: 30px;
+    width: 40%;
+    text-align: center;
+    /* position: absolute;
+    top: 750px;
+    left: 590px; */
+   
+}
+
+
+.MadText {
+    font-size: 1.5rem;
+}
+
+.BR {
+    background-image: url(../assets/BR.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.Station {
+    background-image: url(../assets/Station.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.input {
+    background-color: white;
+    border: 10px;
+}
